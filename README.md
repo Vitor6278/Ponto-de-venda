@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Ponto%20De%20Venda&fontColor=fff&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Projeto%20PDV&fontColor=fff&fontSize=40&animation=twinkling" />
 
 # README - Projeto PDV API
 
